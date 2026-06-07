@@ -1,23 +1,25 @@
-# My Docs Site
+---
+title: Poker Chip Collection Docs
+---
 
-A Docusaurus-powered documentation site that publishes to GitHub Pages.
+# Poker Chip Collection Docs
 
-Edit pages with AI assistance at [MD Docs](https://mddocs-site.redbeach-67793768.westus3.azurecontainerapps.io).
+Welcome to the Poker Chip Collection documentation site! This is the ultimate resource for anyone passionate about collecting, preserving, and showcasing poker chips.
 
-## Local dev
+## Local Development
 
 ```bash
 npm install
 npm start    # → http://localhost:3000
 ```
 
-## How publishing works
+## How Publishing Works
 
 1. Edit pages (via the MD Docs editor, the GitHub web UI, or locally).
 2. Push to `main`.
-3. The `Deploy to GitHub Pages` Action builds with Docusaurus and publishes the result to GitHub Pages.
-4. Live in ~1–2 minutes at the URL configured in your repo's Settings → Pages.
+3. The `Deploy to GitHub Pages` Action builds and publishes the result to GitHub Pages.
+4. Updates are live in ~1–2 minutes.
 
-## Configuring the site URL
+## Configuring the Site URL
 
-When you enable GitHub Pages on this repo (Settings → Pages → Source: "GitHub Actions"), Pages will publish at `https://<your-username>.github.io/<this-repo-name>/`. Edit `docusaurus.config.js` so `url`, `baseUrl`, `organizationName`, and `projectName` match. (The MD Docs editor will offer to do this for you on first connection.)
+When you enable GitHub Pages on this repo (Settings → Pages → Source: "GitHub Actions"), Pages will publish at `https://<your-username>.github.io/<this-repo-name>/`. Edit `docusaurus.config.js` so `url`, `baseUrl`, `organizationName`, and `projectName` match. Get started today!
