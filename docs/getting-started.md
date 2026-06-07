@@ -3,32 +3,26 @@ sidebar_position: 2
 title: Getting Started
 ---
 
-# Getting Started
+# Getting Started: Poker Chip Collection
 
-This template includes everything you need to ship a docs site to GitHub Pages.
+Welcome to the Poker Chip Collection documentation site! This page guides you on how to get started with organizing, cataloging, and maintaining your poker chip collection.
 
-## Editing pages
+## Getting Started with Your Collection
 
-Two options:
+- **Inventory your chips**: Begin by identifying the poker chips you own. Note the quantity, design, material, and denomination.
+- **Set up storage**: Choose a clean, dry, secure environment to store your chips. Consider display cases or trays to showcase rare or vintage chips.
+- **Learn about chip materials**: Poker chips are made from various materials (clay, ceramic, plastic). Knowing the material is helpful for cleaning techniques and valuation.
 
-- **AI editor (recommended)**: open the [MD Docs editor](https://mddocs-site.redbeach-67793768.westus3.azurecontainerapps.io), sign in, pick this repo, and edit any page with natural-language prompts.
-- **Directly on GitHub**: click any page in `docs/` here on GitHub and use the pencil-icon edit button.
+## Keeping Track of Your Collection
 
-## Adding pages
+You can use either:  
+- **Digital tools**: Apps and spreadsheets for organizing data.  
+- **Analog methods**: Handwritten records or printed catalogs.
 
-Drop a new markdown file under `docs/`. Every file needs YAML frontmatter at the top:
+## Preservation Tips
 
-```md
----
-title: My new page
-sidebar_position: 3
----
+- Keep chips away from direct sunlight to avoid fading.
+- Store in a temperature-controlled environment to prevent warping or cracking.
+- Clean chips carefully, avoiding abrasive materials that may damage the surfaces.
 
-Page content here.
-```
-
-`sidebar_position` controls where the page appears in the nav (smaller numbers first). Drop a file into a subfolder and it becomes a collapsible group.
-
-## Publishing
-
-Every push to `main` runs the `Deploy to GitHub Pages` Action and publishes the new build. Takes about 1–2 minutes.
+Start exploring other sections for detailed advice, tips, and strategies for maintaining a stunning poker chip collection!
